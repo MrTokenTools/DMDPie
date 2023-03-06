@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">DmdPie Introduction:</h1>
+<h1 align="left">DMDPie Introduction:</h1>
 
 ###
 
