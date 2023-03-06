@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">All the Materials and Tools provided in here are strictly for educational purposes, we do not endorse any illegal activities related to spam/fraud. We are here to learn how to interact with Discords API.<br><br>Additionally, any discussion of the fraudelent activities within our community/usage of the software for said means will result in a permament ban within the software, dont tell me that i didnt warned you.</p>
+<p align="left">All the Materials and Tools provided in here are strictly for educational purposes, we do not endorse any illegal activities related to spam/fraud. We are here to learn how to interact with Discord's API.<br><br>Additionally, any discussion of the fraudelent activities within our community/usage of the software for said means will result in a permament ban within the software, dont tell me that i didnt warned you.</p>
 <p align="left"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel="nofollow">We know the rules and so do you.</a></p>
 
 
