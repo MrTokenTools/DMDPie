@@ -37,18 +37,16 @@
 ![image](https://user-images.githubusercontent.com/117668613/223186364-3cf9e002-1228-4a5d-95ef-09a2041f29c2.png)
 
 
+Our software have been tested with those services:
 
-OUR SOFTWARE HAVE BEEN TESTED WITH THOSE SETTINGS:
+<p>Proxy: IProyal Royal Residental</p>
+<p>Captcha: CapSolver.com</p>
 
-<p>PROXY: IPROYAL ROYAL RESIDENTAL</p>
-<p>CAPTCHA: CAPSOLVER.COM</p>
+<p>If you are using any other proxy/captcha service - we cannot guarantee any results, nor will we debug any problem related to your specific case</p>
 
-<p>IF YOU ARE USING ANY OTHER PROXY/CAPTCHA SERVICE - WE CANNOT GUARANTEE ANY RESULTS, NOR WILL WE DEBUG ANY PROBLEM RELATED TO YOUR SPECIFIC CASE</p>
-
-<p>GET YOUR SETUP IN A RIGHT CONDITION AND READ THIS FAQ PRIOR ASKIN ANY QUESTIONS/REPORTING PROBLEMS IN THE CHAT!</p>
+<p>get your setup in a right condition and read this faq prior askin any questions/reporting problems in the chat!</p>
   
 </p>
-
 
 
 
