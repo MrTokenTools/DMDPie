@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">What is DMDPie?<br>DMDPie is a GUI based software with the ability of multithreaded interacions with the Disocrd's api, which goal is to improve quality of the process, give better results and CPU (Cost per use). Easy to use, easy to understand, even easier to work with!<br>
+<p align="left">What is DMDPie?<br>DMDPie is a GUI based software with the ability of multithreaded interacions with the Discord's api, which goal is to improve quality of the process, give better results and CPU (Cost per use). Easy to use, easy to understand, even easier to work with!<br>
 
 ![image](https://user-images.githubusercontent.com/117668613/223186364-3cf9e002-1228-4a5d-95ef-09a2041f29c2.png)
 
